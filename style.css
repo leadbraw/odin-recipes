@@ -1,3 +1,12 @@
+.title-div {
+    background-color: #e2e2e2;
+    border: 2px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
 .title {
     font-size: 80px;
     color: rgb(5, 81, 151);
